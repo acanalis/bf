@@ -1,4 +1,4 @@
-package braingo
+package bf
 
 import (
 	"io"
@@ -71,6 +71,5 @@ func (i *Interpreter) Run(input io.Reader, output io.Writer) {
 			}
 		}
 		i.ip++
-
 	}
 }

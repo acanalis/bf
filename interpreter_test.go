@@ -1,4 +1,4 @@
-package braingo
+package bf
 
 import (
 	"bytes"

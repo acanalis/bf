@@ -1,3 +1,3 @@
-module github.com/acanalis/braingo
+module github.com/acanalis/bf
 
 go 1.15
